@@ -90,10 +90,10 @@ Operators:
 </remarks>
 \**--------------------------------------------------------------------------**/
 
-#include "..\YSI-Internal\y_version"
-#include "..\YSI-Data\y_iterate"
-#include "..\YSI-Core\y_debug"
-#include "..\YSI-Coding\y_hooks"
+#include "..\YSI_Internal\y_version"
+#include "..\YSI_Data\y_iterate"
+#include "..\YSI_Core\y_debug"
+#include "..\YSI_Coding\y_hooks"
 
 enum e_FLOOD_ACTION (+= 0x00010000)
 {
